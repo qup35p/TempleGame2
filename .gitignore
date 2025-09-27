@@ -1,3 +1,21 @@
+# Unity generated files (加上這行很重要)
+TempleGame2/[Ll]ibrary/
+TempleGame2/[Tt]emp/
+TempleGame2/[Oo]bj/
+TempleGame2/[Bb]uild/
+TempleGame2/[Bb]uilds/
+TempleGame2/[Ll]ogs/
+TempleGame2/[Uu]ser[Ss]ettings/
+
+# 也加上通用的規則
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
