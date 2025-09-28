@@ -913,11 +913,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: c1ced2df-08ee-483b-aa83-0fee8333e016
+  cloudProjectId: 787001e0-6688-429c-84b7-e89be9cec51e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: TempleGame2 2025-09-27_13-21-09
-  organizationId: qup35p
+  projectName: TempleGame2
+  organizationId: doirisyen167
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
