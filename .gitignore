@@ -16,6 +16,9 @@ TempleGame2/[Uu]ser[Ss]ettings/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 
+[Tt]empleGame2/UserSettings/
+UserSettings/
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
