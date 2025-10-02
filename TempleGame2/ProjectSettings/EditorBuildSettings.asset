@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GodTestScene.unity
     guid: 3451a6584e4595844b395e626f2ce382
+  - enabled: 1
+    path: Assets/Scenes/BelieverScene.unity
+    guid: c41db680745952e4bbbbf02efedff9a5
+  - enabled: 1
+    path: Assets/Scenes/MoralTestScene.unity
+    guid: 53a394c8d40772149b304a847371f708
   m_configObjects: {}
